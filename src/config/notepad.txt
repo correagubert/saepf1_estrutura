@@ -1,0 +1,8 @@
+Faltou:
+- Completar o banco de dados corretamente (pareceu ter faltado informações para completar, e não consegui preencher a função "view" por dificuldade)
+- Configurar as rotas no backend (não consegui fazer muita coisa pela questão do banco de dados).
+
+Foram entregues:
+- Print do Diagrama de Entidade-Relacionamento (feito pelo MySQL Workbench)
+- Arquivo .env configurado com as portas.
+- NPM configurado no projeto.
